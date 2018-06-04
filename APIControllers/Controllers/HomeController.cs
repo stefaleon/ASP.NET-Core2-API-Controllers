@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using APIControllers.Models;
 
-namespace ApiControllers.Controllers
+namespace APIControllers.Controllers
 {
     public class HomeController : Controller
     {
